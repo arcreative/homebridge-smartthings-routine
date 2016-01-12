@@ -15,7 +15,7 @@ A little plugin to enable SmartThings routines from
 
 ## Usage
 
-Just say "Turn <on/off> <routine name>" to activate the routine.  There is
+Just say "Turn [on/off] [routine name]" to activate the routine.  There is
 obviously no "off" state to a routine, but sometimes it's a little more natural
 to say "off" instead of "on"!
 
