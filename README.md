@@ -1,7 +1,7 @@
 # homebridge-smartthings-routine
 
 A little plugin to enable SmartThings routines from
-[Homebridge](https://github.com/nferina/homebridge).
+[Homebridge](https://github.com/nfarina/homebridge).
 
 ## Installation
 
