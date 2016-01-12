@@ -1,11 +1,12 @@
 # homebridge-smartthings-routine
 
-A little plugin to enable SmartThings routines from nferina/homebridge.
+A little plugin to enable SmartThings routines from
+[Homebridge](https://github.com/nferina/homebridge).
 
 ## Installation
 
 1. `npm install -g arcreative/homebridge-smartthings-routine`
-2. Install the `HelloHomeBridge.groovy` SmartApp in
+2. Install the [HelloHomeBridge.groovy](HelloHomeBridge.groovy) SmartApp in
   https://graph.api.smartthings.com/
 3. Enable OAuth in the SmartApp
 4. Grab the accessories configuration from the SmartApp, and add to Homebridge's
@@ -20,6 +21,7 @@ to say "off" instead of "on"!
 
 ## Credits
 
-Credit to `jnewland` for the `HelloHomeBridge.groovy` file, as well as the
-realization that this awesome functionality is available at this stage of
+Credit to [jnewland](https://github.com/jnewland) for the
+[HelloHomeBridge.groovy](HelloHomeBridge.groovy) file, as well as the
+realization that this awesome functionality is available at this early stage of
 HomeKit support.
