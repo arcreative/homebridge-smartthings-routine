@@ -32,7 +32,7 @@ function SmartThingsRoutineAccessory(log, config) {
             accessory.log("Triggered successfully")
             callback(null);
           } else {
-            accessory.log("Error '" + err + "': " + body)
+            accessory.log("Error '" + err + "': " + response.body);
             callback(err);
           }
         });
