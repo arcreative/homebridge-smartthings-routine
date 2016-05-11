@@ -1,6 +1,6 @@
 {
   "name": "homebridge-smartthings-routine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SmartThings routine plugin",
   "main": "index.js",
   "scripts": {
