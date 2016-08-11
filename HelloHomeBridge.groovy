@@ -58,7 +58,7 @@ def copyConfig() {
 def renderConfig() {
     def configJson = new groovy.json.JsonOutput().toJson(location?.helloHome?.getPhrases().collect({
         [
-            accessory: "SmartThingsHelloHome",
+            accessory: "SmartThingsRoutine",
             name: it.label,
             appId: it.id,
             accessToken: state.accessToken
