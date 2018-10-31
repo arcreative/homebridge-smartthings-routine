@@ -1,5 +1,8 @@
 # homebridge-smartthings-routine
 
+## This plugin is currently defunct.  This was more of an experiment than 
+something I intended to maintain!
+
 A little plugin to enable SmartThings routines from
 [Homebridge](https://github.com/nfarina/homebridge).
 
